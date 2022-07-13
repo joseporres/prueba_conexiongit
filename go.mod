@@ -1,3 +1,3 @@
-module github.com/simple/prueba_conexiongit
+module example
 
 go 1.18
